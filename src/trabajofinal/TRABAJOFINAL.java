@@ -22,7 +22,7 @@ public class TRABAJOFINAL {
         vt3 = lectura.nextInt();
 
         // Cálculos
-        c = (vt1 + vt2 + vt3) * 0.10; // Calcular comisión (corrección de vt14 a vt1)
+        c = (vt1 + vt2 + vt3) * 0.25; // Calcular comisión (corrección de vt14 a vt1)
         pt = sm + c; // Sueldo total con comisión
 
         // Resultados
